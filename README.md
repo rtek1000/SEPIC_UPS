@@ -14,3 +14,7 @@ DC-DC Step Down regulator (CC-CV type):
 DC-DC Step Up/Down regulator (SEPIC type):
 
 <img src="https://raw.githubusercontent.com/rtek1000/SEPIC_UPS/main/DC-DC_Step_Up_Down_SEPIC_1.jpg" width="256">
+
+Hardware Licence:
+
+Released under CERN OHL 1.2: https://ohwr.org/cernohl
