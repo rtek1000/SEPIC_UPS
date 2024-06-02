@@ -7,6 +7,10 @@ SEPIC UPS with supercapacitor for delicate sensors
 
 https://www.kemet.com/en/us/technical-resources/choosing-the-right-supercapacitor-for-your-application.html
 
+https://www.powerelectronicsnews.com/ebook-may-21-4-choosing-the-right-supercapacitor-for-your-application/
+
+https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/technical/eaton-design-considerations-supercapacitors-selection.pdf
+
 #### Schematic:
 
 ![img](https://raw.githubusercontent.com/rtek1000/SEPIC_UPS/main/Schematic.png)
