@@ -1,6 +1,8 @@
 # SEPIC UPS
 SEPIC UPS with supercapacitor for delicate sensors
 
+(Some sensors may be sensitive to voltage variations, such as automotive sensors, when the combustion engine starts, high current from the starter motor can momentarily lower the battery voltage)
+
 Schematic:
 
 ![img](https://raw.githubusercontent.com/rtek1000/SEPIC_UPS/main/Schematic.png)
