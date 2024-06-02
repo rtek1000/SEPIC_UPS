@@ -6,3 +6,6 @@ Schematic:
 
 DC-DC regulator (CC-CV type):
 ![img](https://raw.githubusercontent.com/rtek1000/SEPIC_UPS/main/DC-DC_Step_Down_CC_CV_1.jpg)
+
+DC-DC regulator (SEPIC type):
+![img](https://raw.githubusercontent.com/rtek1000/SEPIC_UPS/main/DC-DC_Step_Up_Down_SEPIC_1.jpg)
